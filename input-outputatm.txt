@@ -1,0 +1,244 @@
+"C:\Program Files\Java\jdk-15.0.1\bin\java.exe" -javaagent:C:\Users\user\AppData\Local\JetBrains\IdeaIC2020.2\testAgent\intellij-coverage-agent-1.0.512.jar=C:\Users\user\AppData\Local\Temp\coverage9args "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\lib\idea_rt.jar=64703:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\user\Desktop\pmatm\out\production\pmatm ATM
+---- IntelliJ IDEA coverage runner ---- 
+sampling ...
+include patterns:
+exclude patterns:
+
+👏👏 Welcome in sbi bank atm barodameo 🙏🙏🙏 !
+
+Please enter your account number: 3333
+
+Enter your PIN: 2333
+Invalid account number or PIN. Please try again.
+
+Please enter your account number: 3333
+
+Enter your PIN: 3333
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 1
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  2209
+please enter your otp
+2208
+invalid otp
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 1
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  3980
+please enter your otp
+3980
+
+Balance Information:
+
+ - name: ajaykumar
+ - ifsc: CTAE0122
+ - mobile num.: 9999999997
+ - Total balance: 30000.00
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 2
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  7992
+please enter your otp
+7991
+
+Invalid otp
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 2
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  3626
+please enter your otp
+3626
+
+Withdrawal options:
+1 - for withdraw money
+2 - Cancel transaction
+
+Choose a withdrawal option (1-2): 1
+please enter money for withdraw
+4000
+
+Please take your cash from the cash dispenser.
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 3
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  1516
+please enter your otp
+1516
+
+Please enter a deposit amount  (or 0 to cancel): 1000
+1000.00 in the deposit slot.
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 3
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  2894
+please enter your otp
+2891
+
+invalid otp
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 4
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  1496
+please enter your otp
+1496
+
+enter new pin ,pin number should be in 4 digit
+88889
+
+invalid input
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 4
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  8358
+please enter your otp
+8358
+
+enter new pin ,pin number should be in 4 digit
+8888
+
+successfully pin changed
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 5
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  2593
+please enter your otp
+2593
+please enter account number for transfer:-
+1111
+please enter ifsc code for transfer:-
+2222
+invalid account number or ifsc code
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 5
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  8625
+please enter your otp
+5
+invalid otp
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 5
+8625
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  3237
+please enter your otp
+3237
+invalid otp
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 5
+otp successfully sent to your mobile num. :-   9999999997
+your otp(just for information):-  7857
+please enter your otp
+7857
+please enter account number for transfer:-
+5555
+please enter ifsc code for transfer:-
+PUNB0166
+please enter money for transfer:-
+1000
+
+Amount successfully transferred
+
+Main menu:- please choose one key for operations
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - change pin
+5 -  Balance transfer
+6 - Exit
+
+Enter a choice: 
